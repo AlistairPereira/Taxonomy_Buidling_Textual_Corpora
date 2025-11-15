@@ -1,0 +1,40 @@
+A_id,A_name,B_id,B_name,C_id,C_name,num_products
+-1,Product Classification,-1,,-1,,82
+0,Computer Hardware,8,Desktop and Laptops,31,HP Omen Gaming PC,13
+0,Computer Hardware,8,Desktop and Laptops,32,Toshiba Satellite Notebook,31
+0,Computer Hardware,10,HP Computers and Peripherals,35,HP Proliant Servers,11
+0,Computer Hardware,10,HP Computers and Peripherals,36,HP Pavilion Notebook 14,11
+0,Computer Hardware,10,HP Computers and Peripherals,37,HP Spectre X360 Laptop,19
+1,Computer Hardware &,1,Desktop and Laptops,28,Fujitsu Lifebook Laptop,13
+1,Computer Hardware &,1,Desktop and Laptops,29,Lenovo All-in-One PC,23
+1,Computer Hardware &,11,Enterprise IT Services,26,Dell Mission Critical Support,21
+2,Computer Hardware Upgrades,18,Server and Storage,21,Fujitsu Rack Server,28
+2,Computer Hardware Upgrades,25,Computer Memory Upgrades,17,Memory Modules & Kits,12
+3,Computing Hardware,6,Portable Computing Devices,27,Acer Aspire E Series,17
+3,Computing Hardware,6,Portable Computing Devices,30,Tablets with IPS Display,10
+3,Computing Hardware,6,Portable Computing Devices,33,Asus Laptops 6th Gen,20
+3,Computing Hardware,22,Home Computer Systems,34,Desktop Gaming PC,28
+4,Computer Keyboards,0,Portable Computer Keyboards,13,Ergonomic USB Keyboard,14
+4,Computer Keyboards,0,Portable Computer Keyboards,14,Lenovo ThinkPad Keyboard,24
+4,Computer Keyboards,4,HP Computer Peripherals,15,HP Pavilion Keyboard Spare,13
+4,Computer Keyboards,4,HP Computer Peripherals,16,Here are the assigned,10
+5,Information Technology Services,3,Computer Manufacturer Support,4,Lenovo Support Services,20
+5,Information Technology Services,3,Computer Manufacturer Support,8,HP Computer Hardware Support,28
+5,Information Technology Services,5,Information Technology Support,7,HPE Foundation Care Services,11
+6,Camera Electronics,7,Camera Electronic Devices,24,Digital Compact Camera,15
+7,Cybersecurity Measures,17,Network Security Solutions,2,Web Security Firewall,46
+8,Security and Risk,16,Cybersecurity and Protection,1,Antivirus Security Software,13
+9,Display Device Components,24,Display Device Parts,5,Toshiba LCD Screen Replacement,28
+10,Computer Displays,21,Blank Computer Monitors,19,Vertiv Blank Panel,14
+11,Mobile Phone Accessories,23,Mobile Device Accessories,6,Flip Phone Cases,38
+12,Electrical Power Supplies,12,Computer Power Supplies,10,Laptop Replacement Batteries,24
+13,Computer Hardware Components,9,Laptop Motherboard Parts,11,Acer Notebook Motherboard Spares,26
+14,Commercial Signage Systems,14,Professional Display Solutions,25,Data projector solutions,67
+15,Computer Systems Maintenance,19,Computer Hardware Support Services,3,Fujitsu Support Services,17
+16,Inkjet Printer Parts,15,Inkjet Printer Components,0,Canon QY6-0073 Print Head,92
+17,Network Attached Storage,13,External Network Attached Storage,12,Seagate NAS Drive,47
+18,Computer Monitors,20,Computer Display Parts,9,Laptop LCD Screen Replacement,61
+19,Home Networking Devices,2,Home Network Equipment,18,USB Over Cat5 Hubs,10
+19,Home Networking Devices,2,Home Network Equipment,20,1. Zyxel Modem 2.,10
+19,Home Networking Devices,2,Home Network Equipment,22,Fibre Optic Patch Cables,21
+19,Home Networking Devices,2,Home Network Equipment,23,Network Patch Cables,12
