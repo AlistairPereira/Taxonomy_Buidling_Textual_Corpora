@@ -1,0 +1,485 @@
+[
+  {
+    "A_id": -1,
+    "A_name": "Product Classification",
+    "children": [
+      {
+        "B_id": -1,
+        "B_name": NaN,
+        "children": [
+          {
+            "C_id": -1,
+            "C_name": NaN,
+            "num_products": 82
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 0,
+    "A_name": "Computer Hardware",
+    "children": [
+      {
+        "B_id": 8,
+        "B_name": "Desktop and Laptops",
+        "children": [
+          {
+            "C_id": 31,
+            "C_name": "HP Omen Gaming PC",
+            "num_products": 13
+          },
+          {
+            "C_id": 32,
+            "C_name": "Toshiba Satellite Notebook",
+            "num_products": 31
+          }
+        ]
+      },
+      {
+        "B_id": 10,
+        "B_name": "HP Computers and Peripherals",
+        "children": [
+          {
+            "C_id": 35,
+            "C_name": "HP Proliant Servers",
+            "num_products": 11
+          },
+          {
+            "C_id": 36,
+            "C_name": "HP Pavilion Notebook 14",
+            "num_products": 11
+          },
+          {
+            "C_id": 37,
+            "C_name": "HP Spectre X360 Laptop",
+            "num_products": 19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 1,
+    "A_name": "Computer Hardware &",
+    "children": [
+      {
+        "B_id": 1,
+        "B_name": "Desktop and Laptops",
+        "children": [
+          {
+            "C_id": 28,
+            "C_name": "Fujitsu Lifebook Laptop",
+            "num_products": 13
+          },
+          {
+            "C_id": 29,
+            "C_name": "Lenovo All-in-One PC",
+            "num_products": 23
+          }
+        ]
+      },
+      {
+        "B_id": 11,
+        "B_name": "Enterprise IT Services",
+        "children": [
+          {
+            "C_id": 26,
+            "C_name": "Dell Mission Critical Support",
+            "num_products": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 2,
+    "A_name": "Computer Hardware Upgrades",
+    "children": [
+      {
+        "B_id": 18,
+        "B_name": "Server and Storage",
+        "children": [
+          {
+            "C_id": 21,
+            "C_name": "Fujitsu Rack Server",
+            "num_products": 28
+          }
+        ]
+      },
+      {
+        "B_id": 25,
+        "B_name": "Computer Memory Upgrades",
+        "children": [
+          {
+            "C_id": 17,
+            "C_name": "Memory Modules & Kits",
+            "num_products": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 3,
+    "A_name": "Computing Hardware",
+    "children": [
+      {
+        "B_id": 6,
+        "B_name": "Portable Computing Devices",
+        "children": [
+          {
+            "C_id": 27,
+            "C_name": "Acer Aspire E Series",
+            "num_products": 17
+          },
+          {
+            "C_id": 30,
+            "C_name": "Tablets with IPS Display",
+            "num_products": 10
+          },
+          {
+            "C_id": 33,
+            "C_name": "Asus Laptops 6th Gen",
+            "num_products": 20
+          }
+        ]
+      },
+      {
+        "B_id": 22,
+        "B_name": "Home Computer Systems",
+        "children": [
+          {
+            "C_id": 34,
+            "C_name": "Desktop Gaming PC",
+            "num_products": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 4,
+    "A_name": "Computer Keyboards",
+    "children": [
+      {
+        "B_id": 0,
+        "B_name": "Portable Computer Keyboards",
+        "children": [
+          {
+            "C_id": 13,
+            "C_name": "Ergonomic USB Keyboard",
+            "num_products": 14
+          },
+          {
+            "C_id": 14,
+            "C_name": "Lenovo ThinkPad Keyboard",
+            "num_products": 24
+          }
+        ]
+      },
+      {
+        "B_id": 4,
+        "B_name": "HP Computer Peripherals",
+        "children": [
+          {
+            "C_id": 15,
+            "C_name": "HP Pavilion Keyboard Spare",
+            "num_products": 13
+          },
+          {
+            "C_id": 16,
+            "C_name": "Here are the assigned",
+            "num_products": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 5,
+    "A_name": "Information Technology Services",
+    "children": [
+      {
+        "B_id": 3,
+        "B_name": "Computer Manufacturer Support",
+        "children": [
+          {
+            "C_id": 4,
+            "C_name": "Lenovo Support Services",
+            "num_products": 20
+          },
+          {
+            "C_id": 8,
+            "C_name": "HP Computer Hardware Support",
+            "num_products": 28
+          }
+        ]
+      },
+      {
+        "B_id": 5,
+        "B_name": "Information Technology Support",
+        "children": [
+          {
+            "C_id": 7,
+            "C_name": "HPE Foundation Care Services",
+            "num_products": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 6,
+    "A_name": "Camera Electronics",
+    "children": [
+      {
+        "B_id": 7,
+        "B_name": "Camera Electronic Devices",
+        "children": [
+          {
+            "C_id": 24,
+            "C_name": "Digital Compact Camera",
+            "num_products": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 7,
+    "A_name": "Cybersecurity Measures",
+    "children": [
+      {
+        "B_id": 17,
+        "B_name": "Network Security Solutions",
+        "children": [
+          {
+            "C_id": 2,
+            "C_name": "Web Security Firewall",
+            "num_products": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 8,
+    "A_name": "Security and Risk",
+    "children": [
+      {
+        "B_id": 16,
+        "B_name": "Cybersecurity and Protection",
+        "children": [
+          {
+            "C_id": 1,
+            "C_name": "Antivirus Security Software",
+            "num_products": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 9,
+    "A_name": "Display Device Components",
+    "children": [
+      {
+        "B_id": 24,
+        "B_name": "Display Device Parts",
+        "children": [
+          {
+            "C_id": 5,
+            "C_name": "Toshiba LCD Screen Replacement",
+            "num_products": 28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 10,
+    "A_name": "Computer Displays",
+    "children": [
+      {
+        "B_id": 21,
+        "B_name": "Blank Computer Monitors",
+        "children": [
+          {
+            "C_id": 19,
+            "C_name": "Vertiv Blank Panel",
+            "num_products": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 11,
+    "A_name": "Mobile Phone Accessories",
+    "children": [
+      {
+        "B_id": 23,
+        "B_name": "Mobile Device Accessories",
+        "children": [
+          {
+            "C_id": 6,
+            "C_name": "Flip Phone Cases",
+            "num_products": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 12,
+    "A_name": "Electrical Power Supplies",
+    "children": [
+      {
+        "B_id": 12,
+        "B_name": "Computer Power Supplies",
+        "children": [
+          {
+            "C_id": 10,
+            "C_name": "Laptop Replacement Batteries",
+            "num_products": 24
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 13,
+    "A_name": "Computer Hardware Components",
+    "children": [
+      {
+        "B_id": 9,
+        "B_name": "Laptop Motherboard Parts",
+        "children": [
+          {
+            "C_id": 11,
+            "C_name": "Acer Notebook Motherboard Spares",
+            "num_products": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 14,
+    "A_name": "Commercial Signage Systems",
+    "children": [
+      {
+        "B_id": 14,
+        "B_name": "Professional Display Solutions",
+        "children": [
+          {
+            "C_id": 25,
+            "C_name": "Data projector solutions",
+            "num_products": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 15,
+    "A_name": "Computer Systems Maintenance",
+    "children": [
+      {
+        "B_id": 19,
+        "B_name": "Computer Hardware Support Services",
+        "children": [
+          {
+            "C_id": 3,
+            "C_name": "Fujitsu Support Services",
+            "num_products": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 16,
+    "A_name": "Inkjet Printer Parts",
+    "children": [
+      {
+        "B_id": 15,
+        "B_name": "Inkjet Printer Components",
+        "children": [
+          {
+            "C_id": 0,
+            "C_name": "Canon QY6-0073 Print Head",
+            "num_products": 92
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 17,
+    "A_name": "Network Attached Storage",
+    "children": [
+      {
+        "B_id": 13,
+        "B_name": "External Network Attached Storage",
+        "children": [
+          {
+            "C_id": 12,
+            "C_name": "Seagate NAS Drive",
+            "num_products": 47
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 18,
+    "A_name": "Computer Monitors",
+    "children": [
+      {
+        "B_id": 20,
+        "B_name": "Computer Display Parts",
+        "children": [
+          {
+            "C_id": 9,
+            "C_name": "Laptop LCD Screen Replacement",
+            "num_products": 61
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "A_id": 19,
+    "A_name": "Home Networking Devices",
+    "children": [
+      {
+        "B_id": 2,
+        "B_name": "Home Network Equipment",
+        "children": [
+          {
+            "C_id": 18,
+            "C_name": "USB Over Cat5 Hubs",
+            "num_products": 10
+          },
+          {
+            "C_id": 20,
+            "C_name": "1. Zyxel Modem 2.",
+            "num_products": 10
+          },
+          {
+            "C_id": 22,
+            "C_name": "Fibre Optic Patch Cables",
+            "num_products": 21
+          },
+          {
+            "C_id": 23,
+            "C_name": "Network Patch Cables",
+            "num_products": 12
+          }
+        ]
+      }
+    ]
+  }
+]
